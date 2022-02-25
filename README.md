@@ -1,0 +1,2 @@
+# artista
+Artista shopify theme
